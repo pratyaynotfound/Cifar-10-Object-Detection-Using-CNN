@@ -33,7 +33,7 @@ Before using this repository, ensure you have the following dependencies install
 
 ### Training
 
-To train the CNN object detection model on the CIFAR-10 dataset, open the `CNN_object_prediction-Cifar10.ipynb` Jupyter Notebook and run the training code segment. Make sure to specify the desired number of epochs (e.g., 100 epochs) during training.
+To train the CNN object detection model on the CIFAR-10 dataset, open the [`CNN_object_detection-Cifar10.ipynb`](CNN_object_detection-Cifar10.ipynb) Jupyter Notebook and run the training code segment. Make sure to specify the desired number of epochs (e.g., 100 epochs) during training.
 
 ### Evaluation
 
