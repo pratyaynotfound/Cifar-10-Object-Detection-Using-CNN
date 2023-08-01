@@ -5,8 +5,7 @@ Welcome to the CIFAR-10 Object Detection Repository! This repository contains co
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
+2. [Prerequisites](#prerequisites)
 3. [Usage](#usage)
    - [Training](#training)
    - [Evaluation](#evaluation)
@@ -19,8 +18,6 @@ Welcome to the CIFAR-10 Object Detection Repository! This repository contains co
 ## Introduction
 
 Identifying and localizing objects within an image is a fundamental computer vision task known as object detection. The widely used CIFAR-10 dataset serves as a benchmark for image classification tasks, but this repository ups the ante for object detection with CNN-based models. The CNN model on the CIFAR-10 dataset can be trained and tested using the code found in the CNN_object_prediction-Cifar10.ipynb Jupyter Notebook that is provided.
-
-## Getting Started
 
 ### Prerequisites
 
