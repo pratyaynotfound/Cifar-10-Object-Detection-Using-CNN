@@ -1,4 +1,4 @@
-# CIFAR-10 Object Detection Repository
+# Cifar-10-Object-Detection-Using-CNN
 
 Welcome to the CIFAR-10 Object Detection Repository! This repository contains code and resources for training and evaluating object detection models on the CIFAR-10 dataset using a Convolutional Neural Network (CNN). The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The goal of this project is to develop and test CNN-based models capable of accurately detecting objects within these images.
 
