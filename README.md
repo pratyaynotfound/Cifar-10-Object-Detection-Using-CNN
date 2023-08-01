@@ -7,7 +7,6 @@ Welcome to the CIFAR-10 Object Detection Repository! This repository contains co
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
 3. [Usage](#usage)
    - [Training](#training)
    - [Evaluation](#evaluation)
@@ -32,29 +31,6 @@ Before using this repository, ensure you have the following dependencies install
 - NumPy
 - Matplotlib
 - OpenCV
-
-### Installation
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your_username/cifar-10-object-detection.git
-cd cifar-10-object-detection
-```
-
-2. Set up a virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate # On Windows, use venv\Scripts\activate
-```
-
-3. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 
 ## Usage
 
